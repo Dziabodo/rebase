@@ -23,11 +23,13 @@
         "drupal/core-recommended": "^9.4",
         "drupal/google_map_field": "^1.14",
         "drupal/honeypot": "^2.1",
+        "drupal/imce": "^3.0",
         "drupal/jquery_ui": "^1.6",
         "drupal/paragraphs": "^1.15",
         "drupal/pathauto": "^1.11",
         "drupal/simple_sitemap": "^4.1",
         "drupal/stage_file_proxy": "^2.0",
+        "drupal/token": "^1.12",
         "drupal/webform": "^6.1"
     },
     "conflict": {
